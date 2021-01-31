@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color:coral;
+}
+
+#sea {
+    margin: 50px;
+}
+
+p {
+    font-size: 35px;
+    color: darkmagenta;
+}
+
+#plants {
+    width: 1500px;
+    height: 1000px;
+}
+
+#ant {
+    width: 1500px;
+    height: 1000px;
+}
